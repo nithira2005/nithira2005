@@ -10,7 +10,7 @@
 
 
 
-?title=I got some Skills on :
+-I got some Skills on :
 
 
 [![My Skills](https://skillicons.dev/icons?i=,html,css,cs)](https://skillicons.dev)
@@ -20,7 +20,7 @@
 
 
 
-?title=My tools :
+-My tools :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,ps,ai" />
