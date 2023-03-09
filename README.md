@@ -13,7 +13,7 @@
 
 <h3 align="left">My skills :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs)](https://skillicons.dev)
 
 
 <h4 align="left">My Tools :</h4>
