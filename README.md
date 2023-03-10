@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nithira Rajapaksha</h1>
+
 - 🔭 I’m currently working on **3D game devoloping**
-
 - 🌱 I’m currently learning **Unity game devolop**
-
 - 💬 Ask me about **Gaming/Space**
-
 - ⚡ Fun fact **"Pack-man" was called "Puck-man" in early days**
 
 
+
 <hr>
+
 
 
 <h3 align="left">My skills :</h3>
