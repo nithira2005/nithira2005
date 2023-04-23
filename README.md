@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **3D game devoloping**
 - 🌱 I’m currently learning **Unity game devolop**
 - 💬 Ask me about **Gaming/Space**
-- ⚡ Fun fact **"Pack-man" was called "Puck-man" in early days**
+- ⚡ Fun fact **"Games doesnt make you voilent lag does**
 
 
 
