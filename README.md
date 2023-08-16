@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <strong>Nithira Rajapaksha here 👋</strong>
+  <strong>Hello, I'm Nithira Rajapaksha 👋</strong>
 </p>
 
 <p align="center">
-  🎮 Welcome to my realm of creation, where code weaves dreams into immersive games. I'm a game developer with a flair for level design, crafting unique interactive experiences.</p>
+  🌌 Welcome to my world of imagination and code. I'm a game developer who crafts dreams into interactive realities, with a knack for crafting captivating levels.</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Currently%20Crafting-3D%20Game%20Worlds-%237289DA.svg?style=for-the-badge" alt="Currently Crafting">
@@ -21,17 +21,17 @@
 </div>
 
 <h2 align="left">
-  🚀 Embark on My Journey
+  🚀 My Journey So Far
 </h2>
 
 <ul>
-  <li>🔭 Currently diving deep into 3D game development.</li>
-  <li>🌱 Focusing on nurturing Unity skills for next-level creations.</li>
-  <li>💬 Curious explorer of gaming and space, unearthing new frontiers.</li>
+  <li>🔭 Immersed in the cosmos of 3D game development.</li>
+  <li>🌱 Nurturing Unity skills for crafting the extraordinary.</li>
+  <li>💬 Exploring the uncharted territories of gaming and space, always seeking new horizons.</li>
 </ul>
 
 <h2 align="left">
-  🛠️ My Creative Toolkit
+  🛠️ Creative Toolbox
 </h2>
 
 <div align="left">
@@ -57,5 +57,6 @@
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
+
 
 
