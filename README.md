@@ -15,9 +15,9 @@
   🌌 Welcome to my world of imagination and code. I'm a game developer who crafts dreams into interactive realities, with a knack for crafting captivating levels.</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Currently%20Crafting-3D%20Game%20Worlds-%237289DA.svg?style=for-the-badge" alt="Currently Crafting">
-  <img src="https://img.shields.io/badge/Exploring-Unity%20Game%20Realms-%23000000.svg?style=for-the-badge" alt="Exploring Unity">
-  <img src="https://img.shields.io/badge/Passionate%20About-Gaming%20%7C%20Space-%234285F4.svg?style=for-the-badge" alt="Passionate About">
+  <img src="https://img.shields.io/badge/Currently%20Crafting-3D%20Game%20Worlds-%237289DA.svg?style=for-the-badge" alt="Currently Crafting"></br>
+  <img src="https://img.shields.io/badge/Exploring-Unity%20Game%20Realms-%23000000.svg?style=for-the-badge" alt="Exploring Unity"></br>
+  <img src="https://img.shields.io/badge/Passionate%20About-Gaming%20%7C%20Space-%234285F4.svg?style=for-the-badge" alt="Passionate About"></br>
 </div>
 
 <h2 align="left">
